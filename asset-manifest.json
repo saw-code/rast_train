@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rast_train/static/js/main.7e7626c3.js",
+    "index.html": "/rast_train/index.html",
+    "main.7e7626c3.js.map": "/rast_train/static/js/main.7e7626c3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7e7626c3.js"
+  ]
+}
